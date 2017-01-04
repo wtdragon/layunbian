@@ -83,3 +83,5 @@ Then migrate and seed :
 
 You can then use PHPUnit
 # layunbian
+
+change homepage template
